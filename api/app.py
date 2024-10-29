@@ -7,7 +7,6 @@ from flask_cors import CORS
 from openai import OpenAI
 
 
-OPENAI_API_KEY = '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'
 
 
 
