@@ -1,1 +1,5 @@
-# monthly_events
+```
+cd app
+npm install
+npm run dev
+```
